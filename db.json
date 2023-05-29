@@ -1,40 +1,64 @@
 {
   "data" : [
     {
-      "id": 1,
-      "title" : "Rumah Di Balikpapan baru",
-      "price" : "Rumah Yang posisi Strategis Di tengah kota",
-      "description" : "hidihdi",
-      "category" : "Rumah Yang posisi Strategis Di tengah kota",
-      "images" : "https://img.iproperty.com.my/angel-legacy/1110x624-crop/static/2019/05/Bentuk-Rumah-Minimalis-1.jpg"
-  
-    },
-    {
-      "id": 2,
-      "title" : "Rumah Di Balikpapan",
-      "price" : "Rumah Yang posisi Strategis Di tengah kota",
-      "description" : "hidihdi",
-      "category" : "Rumah Yang posisi Strategis Di tengah kota",
-      "images" : "https://img.iproperty.com.my/angel-legacy/1110x624-crop/static/2019/05/Bentuk-Rumah-Minimalis-1.jpg"
-  
-    },
-    {
-        "id": 3,
-      "title" : "Rumah Di ",
-      "price" : "Rumah Yang posisi Strategis Di tengah kota",
-      "description" : "hidihdi",
-      "category" : "Rumah Yang posisi Strategis Di tengah kota",
-      "images" : "https://img.iproperty.com.my/angel-legacy/1110x624-crop/static/2019/05/Bentuk-Rumah-Minimalis-1.jpg"
-  
-    }
-      {
-        "id": 4,
-      "title" : "Rumah ",
-      "price" : "Rumah Yang posisi Strategis Di tengah kota",
-      "description" : "hidihdi",
-      "category" : "Rumah Yang posisi Strategis Di tengah kota",
-      "images" : "https://img.iproperty.com.my/angel-legacy/1110x624-crop/static/2019/05/Bentuk-Rumah-Minimalis-1.jpg"
-  
-    }
-  ]
+     "nama": "Kansas City",
+    "harga": "115.00",
+    "deskripsi": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+    
+  },
+  {
+    "nama": "Salina",
+    "harga": "605.00",
+    "deskripsi": "The Football Is Good For Training And Recreational Purposes"
+    
+  },
+  {
+    "nama": "Novato",
+    "harga": "791.00",
+    "deskripsi": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+    
+  },
+  {
+    "nama": "East Los Angeles",
+    "harga": "305.00",
+    "deskripsi": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+
+  },
+  {
+    "nama": "Salt Lake City",
+    "harga": "708.00",
+    "deskripsi": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+
+  },
+  {
+    "nama": "Upland",
+    "harga": "104.00",
+    "deskripsi": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+    
+  },
+  {
+    "nama": "Camarillo",
+    "harga": "8.00",
+    "deskripsi": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+
+  },
+  {
+    "nama": "Hackensack",
+    "harga": "804.00",
+    "deskripsi": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+
+  },
+  {
+    "nama": "Huntington",
+    "harga": "546.00",
+    "deskripsi": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+
+  },
+  {
+    "nama": "Palm Springs",
+    "harga": "915.00",
+    "deskripsi": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+
+  }
+]
 }

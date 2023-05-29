@@ -1,9 +1,13 @@
 {
   "data" : [
     {
+      "id": 1,
       "title" : "Rumah Di Balikpapan baru",
-      "description" : "Rumah Yang posisi Strategis Di tengah kota",
-      "thumbnail" : "https://img.iproperty.com.my/angel-legacy/1110x624-crop/static/2019/05/Bentuk-Rumah-Minimalis-1.jpg"
+      "price" : "Rumah Yang posisi Strategis Di tengah kota",
+      "description" : "hidihdi",
+      "category" : "Rumah Yang posisi Strategis Di tengah kota",
+      "images" : "https://img.iproperty.com.my/angel-legacy/1110x624-crop/static/2019/05/Bentuk-Rumah-Minimalis-1.jpg"
+  
     },
     {
       "title" : "Rumah Di Grand City",

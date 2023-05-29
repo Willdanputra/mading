@@ -1,64 +1,84 @@
 {
   "data" : [
     {
-     "nama": "Kansas City",
-    "harga": "115.00",
-    "deskripsi": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+    "nama": "Chino Hills",
+    "harga": "515.00",
+    "deskripsi": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "gambar": "https://loremflickr.com/640/480/food",
+    "detail": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
     
   },
   {
-    "nama": "Salina",
-    "harga": "605.00",
-    "deskripsi": "The Football Is Good For Training And Recreational Purposes"
-    
-  },
-  {
-    "nama": "Novato",
-    "harga": "791.00",
-    "deskripsi": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
-    
-  },
-  {
-    "nama": "East Los Angeles",
-    "harga": "305.00",
-    "deskripsi": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+    "nama": "Pine Bluff",
+    "harga": "408.00",
+    "deskripsi": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "gambar": "https://loremflickr.com/640/480/food",
+    "detail": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
 
   },
   {
-    "nama": "Salt Lake City",
-    "harga": "708.00",
-    "deskripsi": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+    "nama": "Harrisonburg",
+    "harga": "922.00",
+    "deskripsi": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "gambar": "https://loremflickr.com/640/480/food",
+    "detail": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
 
   },
   {
-    "nama": "Upland",
-    "harga": "104.00",
-    "deskripsi": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
-    
+    "nama": "Mount Vernon",
+    "harga": "780.00",
+    "deskripsi": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "gambar": "https://loremflickr.com/640/480/food",
+    "detail": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+ 
   },
   {
-    "nama": "Camarillo",
-    "harga": "8.00",
-    "deskripsi": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+    "nama": "Huntersville",
+    "harga": "212.00",
+    "deskripsi": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "gambar": "https://loremflickr.com/640/480/food",
+    "detail": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+ 
+  },
+  {
+    "nama": "Brookhaven",
+    "harga": "402.00",
+    "deskripsi": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "gambar": "https://loremflickr.com/640/480/food",
+    "detail": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
 
   },
   {
-    "nama": "Hackensack",
-    "harga": "804.00",
-    "deskripsi": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+    "nama": "Joplin",
+    "harga": "789.00",
+    "deskripsi": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "gambar": "https://loremflickr.com/640/480/food",
+    "detail": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
 
   },
   {
-    "nama": "Huntington",
-    "harga": "546.00",
-    "deskripsi": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+    "nama": "San Leandro",
+    "harga": "311.00",
+    "deskripsi": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "gambar": "https://loremflickr.com/640/480/food",
+    "detail": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
 
   },
   {
-    "nama": "Palm Springs",
-    "harga": "915.00",
-    "deskripsi": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+    "nama": "Portsmouth",
+    "harga": "522.00",
+    "deskripsi": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "gambar": "https://loremflickr.com/640/480/food",
+    "detail": "The Football Is Good For Training And Recreational Purposes"
 
+  },
+  {
+    "nama": "Surprise",
+    "harga": "393.00",
+    "deskripsi": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "gambar": "https://loremflickr.com/640/480/food",
+    "detail": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+   
   }
 ]
 }

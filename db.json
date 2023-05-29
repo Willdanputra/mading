@@ -10,14 +10,31 @@
   
     },
     {
-      "title" : "Rumah Di Grand City",
-      "description" : "Rumah Di Gerbang IKN",
-      "thumbnail" : "https://cdn-2.tstatic.net/kaltim/foto/bank/images/grand-city-cluster-hayfiled.jpg"
+      "id": 2,
+      "title" : "Rumah Di Balikpapan baru",
+      "price" : "Rumah Yang posisi Strategis Di tengah kota",
+      "description" : "hidihdi",
+      "category" : "Rumah Yang posisi Strategis Di tengah kota",
+      "images" : "https://img.iproperty.com.my/angel-legacy/1110x624-crop/static/2019/05/Bentuk-Rumah-Minimalis-1.jpg"
+  
     },
     {
-      "title" : "Rumah Mewah Di balikpapan Baru",
-      "description" : "Rumah dengan fasilitas mewah",
-      "thumbnail" : "https://events.rumah123.com/wp-content/uploads/sites/38/2022/11/28131907/Bangunan-Rumah-Mewah-1024x683.jpghttps://awsimages.detik.net.id/community/media/visual/2019/09/12/fabdfe88-7bf1-48c4-8c3a-e8cf3d3abe8e_169.jpeg?w=700&q=90"
+        "id": 3,
+      "title" : "Rumah Di Balikpapan baru",
+      "price" : "Rumah Yang posisi Strategis Di tengah kota",
+      "description" : "hidihdi",
+      "category" : "Rumah Yang posisi Strategis Di tengah kota",
+      "images" : "https://img.iproperty.com.my/angel-legacy/1110x624-crop/static/2019/05/Bentuk-Rumah-Minimalis-1.jpg"
+  
+    }
+      {
+        "id": 4,
+      "title" : "Rumah Di Balikpapan baru",
+      "price" : "Rumah Yang posisi Strategis Di tengah kota",
+      "description" : "hidihdi",
+      "category" : "Rumah Yang posisi Strategis Di tengah kota",
+      "images" : "https://img.iproperty.com.my/angel-legacy/1110x624-crop/static/2019/05/Bentuk-Rumah-Minimalis-1.jpg"
+  
     }
   ]
 }
